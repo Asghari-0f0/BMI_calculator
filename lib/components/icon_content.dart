@@ -19,4 +19,3 @@ class IconContent extends StatelessWidget {
     );
   }
 }
-
